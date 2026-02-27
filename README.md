@@ -19,7 +19,13 @@ Chapter-Topic/
 
 - Variables & Data Types
 - Operators & Conditionals
-- (More chapters will be added progressively)
+- Loop Control Statements
+- Functions & Recursion
+- Pointers 
+- Arrays 
+- Strings
+- Structures
+- Dynamic Memory allocation 
 
 ## Purpose
 
