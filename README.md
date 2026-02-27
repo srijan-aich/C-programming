@@ -36,4 +36,4 @@ The goal of this repository is to:
 
 ---
 
-More updates coming as I progress.
+Thank you. 
